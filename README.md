@@ -2,4 +2,3 @@
 
 ------------
 [Example using Cubit](https://github.com/pedrobuzzi/flutter-examples/tree/main/flutter_cubit_video) - [Video](https://www.youtube.com/watch?v=N4l8y6lV2F8)
-
